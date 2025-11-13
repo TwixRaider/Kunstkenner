@@ -1,0 +1,7 @@
+{
+  "name": "KunstKenner - Art Guide",
+  "description": "Your personal AI art guide. Take a photo of any painting to receive a detailed German essay about its history, artist, and significance, powered by Google Search.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
